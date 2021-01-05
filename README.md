@@ -1,4 +1,4 @@
-# TechTree information Command on stream for Age of Empires II: Definitive Edition
+# TechTree information command on stream for Age of Empires II: Definitive Edition
 1. This is an API for checking tech tree information for streamers for AoE2DE.
 2. The API can be used by this link: https://alian713-twitch-commands.herokuapp.com/techtree
 # Usage
