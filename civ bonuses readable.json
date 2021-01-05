@@ -1,0 +1,560 @@
+{
+    "aztecs" : "Infantry and Monk civilization
+
+    • Villagers carry +3
+    • Military units created 11% faster
+    • +5 Monk HP for each Monastery technology
+    • Start with +50 gold
+    
+    UU:
+    Jaguar Warrior (infantry)
+    
+    UTs:
+    • Atlatl (Skirmishers +1 attack, +1 range)
+    • Garland Wars (+4 infantry attack)
+    
+    TB:
+    Relics generate +33% gold
+    ",
+    "berbers" : "
+    Cavalry and Naval civilization
+    
+    • Villagers move 10% faster
+    • Stable units cost -15% in Castle, -20% in Imperial Age
+    • Ships move 10% faster
+    
+    UUs:
+    Camel Archer (cavalry archer), Genitour (mounted skirmisher)
+    
+    UTs:
+    • Kasbah (team castles work 25% faster)
+    • Maghrebi Camels (Camel units regenerate)
+    
+    TB:
+    Genitour available in the Archery Range starting in the Castle Age",
+    "britons" : "Foot Archer civilization
+
+    • TCs cost -50% wood starting in the Castle Age
+    • Foot archers (except skirmishers) +1 range in Castle and Imperial Age (+2 total)
+    • Shepherds work 25% faster
+    
+    UU:
+    Longbowman (archer)
+    
+    UTs:
+    • Yeomen (+1 foot archer range
+    +2 tower attack)
+    • Warwolf (Trebuchets do blast damage)
+    
+    TB:
+    Archery Ranges work 20% faster",
+    "bulgarians" : "Infantry and Cavalry civilization
+
+    • Militia-line upgrades free
+    • TCs cost -50% stone starting in the Castle Age
+    • Blacksmith and Siege Workshop technologies cost -50% food
+    • Can build Krepost
+    
+    UU:
+    Konnik (cavalry)
+    
+    UTs:
+    • Stirrups (Cavalry attack 33% faster)
+    • Bagains (Militia-line gains +5 armor)
+    
+    TB:
+    Blacksmiths work 80% faster    
+    ",
+    "burmese" : "Monk and Elephant civilization
+
+    • Lumber Camp upgrades free
+    • Infantry +1 attack per age (starting in the Feudal Age)
+    • Monastery technologies cost -50%
+    
+    UU:
+    Arambai (ranged cavalry)
+    
+    UTs:
+    • Howdah (Battle Elephants +1/+1P armor)
+    • Manipur Cavalry (Cavalry and Arambai +6 attack vs. buildings)
+    
+    TB:
+    Relics visible on the map at the start of the game
+    ",
+    "byzantines" : "Defensive civilization
+
+    • Buildings +10% HPs Dark, +20% Feudal, +30% Castle, +40% Imperial Age
+    • Camel Riders, Skirmishers, Pikemen, Halberdiers cost -25%
+    • Fire ships attack 25% faster
+    • Advance to Imperial Age costs -33%
+    • Town Watch free
+    
+    UU:
+    Cataphract (cavalry)
+    
+    UTs:
+    • Greek Fire (Fire Ships +1 range)
+    • Logistica (Cataphracts cause trample damage)
+    
+    TB:
+    Monks +50% heal speed",
+    "celts" : "Infantry and Siege civilization
+
+    • Infantry move 15% faster (starting in the Feudal Age)
+    • Lumberjacks work 15% faster
+    • Siege weapons fire 25% faster
+    • Can steal sheep, and sheep within one Celt unit's LOS cannot be stolen
+    
+    UU:
+    Woad Raider (infantry, sexiest unit in the game)
+    
+    UTs:
+    • Stronghold (Castles and towers fire 25% faster)
+    • Furor Celtica (Siege +40% HP)
+    
+    TB:
+    Siege Workshops work 20% faster",
+    "chinese" : "Archer civilization
+
+    • Start with +3 villagers, -50 wood, -200 food
+    • Technologies cost -10% Feudal,
+    -15% Castle, -20% Imperial Age
+    • TCs support 10 population and +5 LOS
+    • Demolition ships +50% HP
+    
+    UU:
+    Chu Ko Nu (archer)
+    
+    UTs:
+    • Great Wall (Walls and towers +30% HP)
+    • Rocketry (Chu Ko Nu +2, scorpions +4 attack)
+    
+    TB:
+    Farms +45 food",
+    "cumans" : "Cavalry civilization
+
+    • +1 TC can be built in the Feudal Age
+    • Siege Workshop and Ram available in the Feudal Age; Capped Ram available in Castle Age
+    • Cavalry 5% faster each age (starting in Feudal Age)
+    
+    UU:
+    Kipchak (cavalry archer)
+    
+    UTs:
+    • Steppe Husbandry (Light Cavalry, Steppe Lancers and Cavalry Archers trained 100% faster)
+    • Cuman Mercenaries (10 free Kipchaks)
+    
+    TB:
+    Palisade Walls +50% HP",
+    "ethiopians" : "Archer civilization
+
+    • Archers fire 18% faster
+    • Receive +100 gold, +100 food when advancing to the next age
+    • Pikeman upgrade free
+    
+    UU:
+    Shotel Warrior (infantry)
+    
+    UTs:
+    • Royal Heirs (Shotel Warriors train nearly instantly)
+    • Torsion Engines (increases blast radius of Siege Workshop units)
+    
+    TB:
+    Towers and Outposts +3 LOS",
+    "franks" : "Cavalry civilization
+
+    • Castles cost -25%
+    • Cavalry +20% HP starting in Feudal Age
+    • Farm upgrades free (require Mill)
+    • Foragers work 25% faster
+    
+    UU:
+    Throwing Axeman (infantry)
+    
+    UTs:
+    • Chivalry (Stables work 40% faster)
+    • Bearded Axe (+1 Throwing Axemen range)
+    
+    TB:
+    Knights +2 LOS",
+    "goths" : "Infantry civilization
+
+    • Infantry cost -20%/-25%/-30%/-35%
+    • Infantry +1 attack vs. buildings per age (starting from Feudal Age)
+    • Villagers +5 attack vs. wild boar; hunters carry +15 meat
+    • Loom can be researched instantly
+    • +10 population in Imperial Age
+    
+    UU:
+    Huskarl (infantry)
+    
+    UTs:
+    • Anarchy (create Huskarls at Barracks)
+    • Perfusion (Barracks work 100% faster)
+    
+    TB:
+    Barracks work 20% faster",
+    "huns" : "Cavalry civilization
+
+    • Do not need houses, but start with -100 wood
+    • Cavalry Archers cost -10% Castle, -20% Imperial Age
+    • Trebuchets +30% accuracy
+    
+    UU:
+    Tarkan (cavalry)
+    
+    UTs:
+    • Marauders (Create Tarkans at stables)
+    • Atheism (+100 years Relic, Wonder victories
+    Spies/Treason costs -50%)
+    
+    TB:
+    Stables work 20% faster",
+    "incas" : "Infantry civilization
+
+    • Start with a free Llama
+    • Villagers affected by Blacksmith upgrades
+    • Houses support 10 population
+    • Buildings cost -15% stone
+    
+    UUs:
+    Kamayuk (infantry), Slinger (archer)
+    
+    UTs:
+    • Andean Sling (Skirmishers and Slingers no minimum range)
+    • Fabric Shields (Kamayuks, Slingers, Eagles +1/+2P armor)
+    
+    TB:
+    Farms built 100% faster",
+    "indians" : "Camel and Gunpowder civilization
+
+    • Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age
+    • Fishermen work 10% faster
+    • Stable units +1P armor in Castle and Imperial Age (+2 total)
+    
+    UUs:
+    Elephant Archer (cavalry archer), Imperial Camel Rider (camel rider)
+    
+    UTs:
+    • Sultans (All gold income 10% faster)
+    • Shatagni (Hand Cannoneers +1 range)
+    
+    TB:
+    Camel units +4 attack vs. buildings",
+    "italians" : "Archer and Naval civilization
+
+    • Advancing to the next age costs -15%
+    • Dock technologies cost -50%
+    • Fishing Ships cost -15%
+    • Gunpowder units cost -20%
+    
+    UUs:
+    Genoese Crossbowman (archer), Condottiero (infantry)
+    
+    UTs:
+    • Pavise (foot archers and Condottieri +1 armor/+1 pierce armor)
+    • Silk Road (trade units cost -50%)
+    
+    TB:
+    Condottiero available in the Barracks in Imperial Age",
+    "japanese" : "Infantry civilization
+
+    • Fishing Ships 2x HP; +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age
+    • Mill, Lumber/Mining Camps cost -50%
+    • Infantry attack 33% faster starting in Feudal Age
+    
+    UU:
+    Samurai (infantry)
+    
+    UTs:
+    • Yasama (Towers shoot extra arrows)
+    • Kataparuto (Trebuchets fire, pack faster)
+    
+    TB:
+    Galleys +50% LOS",
+    "khmer" : "Siege and Elephant civilization
+
+    • No prerequisites needed
+    • Farmers drop food directly
+    • Battle Elephants move 10% faster
+    • Villagers can garrison in Houses
+    
+    UU:
+    Ballista Elephant (mounted scorpion)
+    
+    UTs:
+    • Tusk Swords (Battle Elephants +3 attack)
+    • Double Crossbow (Ballista Elephants and Scorpions fire two projectiles)
+    
+    TB:
+    Scorpions +1 range",
+    "koreans" : "Defensive and Naval civilization
+
+    • Villagers +3 LOS
+    • Stone miners 20% faster
+    • Tower upgrades free (Bombard Tower requires Chemistry)
+    • Archer armor upgrades free
+    • Military units (except siege) cost -20% wood
+    
+    UUs:
+    War Wagon (cavalry archer), Turtle Ship
+    
+    UTs:
+    • Eupseong (Watch Towers, Guard Towers and Keeps +2 range)
+    • Shinkichon (Mangonel-line +1 range)
+    
+    TB:
+    Mangonel-line minimum range reduced",
+    "lithuanians" : "Cavalry and Monk civilization
+
+    • Start with +150 food
+    • Spearman-line and Skirmishers move 10% faster
+    • Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4)
+    
+    UU:
+    Leitis (cavalry)
+    
+    UTs:
+    • Hill Forts (TCs +3 range)
+    • Tower Shields (Spearman-line and Skirmishers +2P armor)
+    
+    TB:
+    Monasteries work 20% faster",
+    "magyars" : "Cavalry civilization
+
+    • Villagers kill wolves with 1 strike
+    • Forging, Iron Casting, Blast Furnace free
+    • Scout Cavalry, Light Cavalry, Hussar cost -15%
+    
+    UU:
+    Magyar Huszar (cavalry)
+    
+    UTs:
+    • Corvinian Army (Magyar Huszars cost no gold)
+    • Recurve Bow (Cavalry archers +1 range, +1 attack)
+    
+    TB:
+    Foot archers +2 LOS",
+    "malay" : "Naval civilization
+
+    • Advancing to the next age 66% faster
+    • Fish Traps cost -33%
+    • Fish Traps provide unlimited food
+    • Battle Elephants 30% cheaper
+    
+    UU:
+    Karambit Warrior (infantry)
+    
+    UTs:
+    • Thalassocracy (upgrades Docks to Harbors, which fire arrows)
+    • Forced Levy (Militia-line gold cost is replaced by additional food cost)
+    
+    TB:
+    Docks +100% LOS",
+    "malians" : "Infantry civilization
+
+    • Buildings cost -15% wood
+    • Barracks units +1P armor per age (starting from Feudal Age)
+    • Gold Mining free
+    
+    UU:
+    Gbeto (infantry)
+    
+    UTs:
+    • Tigui (TCs fire arrows when ungarrisoned)
+    • Farimba (Cavalry +5 attack)
+    
+    TB:
+    Universities work 80% faster",
+    "mayans" : "Archer civilization
+
+    • Start with +1 villager, but -50 food
+    • Resources last 15% longer
+    • Archers cost -10% Feudal, -20% Castle, -30% Imperial Age
+    
+    UU:
+    Plumed Archer (archer)
+    
+    UTs:
+    • Obsidian Arrows (Archers, Crossbowmen and Arbalesters +6 attack vs. buildings)
+    • El Dorado (Eagle Warriors have +40 HP)
+    
+    TB:
+    Walls cost -50%",
+    "mongols" : "Cavalry Archer civilization
+
+    • Cavalry archers fire 25% faster
+    • Light Cavalry, Hussars, Steppe Lancers +30% HP
+    • Hunters work 40% faster
+    
+    UU:
+    Mangudai (cavalry archer)
+    
+    UTs:
+    • Nomads (LOSt houses do not decrease population headroom)
+    • Drill (Siege Workshop units move 50% faster)
+    
+    TB:
+    Scout Cavalry, Light Cavalry, Hussar +2 LOS",
+    "persians" : "Cavalry civilization
+
+    • Start with +50 wood, food
+    • TC, Dock 2x HP; work rate +10% Feudal, +15% Castle, +20% Imperial Age
+    
+    UU:
+    War Elephant (cavalry)
+    
+    UTs:
+    • Kamandaran (Archer-line gold cost is replaced by additional wood cost)
+    • Mahouts (War Elephants 30% faster)
+    
+    TB:
+    Knights +2 attack vs. Archers",
+    "portuguese" : "Naval and Gunpowder civilization
+
+    • All units cost -20% gold
+    • Technologies researched 30% faster
+    • Ships +10% HP
+    • Can build Feitoria in Imperial Age
+    
+    UUs:
+    Organ Gun (siege), Caravel (war ship)
+    
+    UTs:
+    • Carrack (Ships +1/+1 armor)
+    • Arquebus (gunpowder units more accurate)
+    
+    TB:
+    LOS is shared with the team starting in the Dark Age",
+    "saracens" : "Camel and Naval civilization
+
+    • Market trade cost only 5%
+    • Market costs -100 wood
+    • Transport Ships 2x HP,
+    2x capacity
+    • Galleys attack 25% faster
+    • Archers (except skirmishers) +1 attack vs. buildings per age (starting in the Feudal Age)
+    
+    UU:
+    Mameluke (camel rider)
+    
+    UTs:
+    • Madrasah (Monks return 33% of their cost when killed)
+    • Zealotry (Camel units +30 HP)
+    
+    TB:
+    Foot archers +1 attack vs. buildings",
+    "slavs" : "Infantry and Siege civilization
+
+    • Farmers work 10% faster
+    • Supplies free
+    • Siege Workshop units 15% cheaper
+    
+    UU:
+    Boyar (cavalry)
+    
+    UTs:
+    • Orthodoxy (Monks +3/+3P armor)
+    • Druzhina (Infantry damage adjacent units)
+    
+    TB:
+    Military buildings provide +5 population room",
+    "spanish" : "Gunpowder and Monk civilization
+
+    • Builders work 30% faster
+    • Blacksmith upgrades don't cost gold
+    • Cannon Galleons benefit from Ballistics (fire faster, more accurately)
+    • Gunpowder units fire 18% faster
+    
+    UUs:
+    Conquistador (mounted hand cannoneer), Missionary (mounted Monk)
+    
+    UTs:
+    • Inquisition (Monks convert faster)
+    • Supremacy (Villagers stronger in combat)
+    
+    TB:
+    Trade units generate +25% gold",
+    "tatars" : "Cavalry Archer civilization
+
+    • +50% food from sheep
+    • +2 sheep each age
+    • +25% downhill bonus
+    • Thumb Ring, Parthian Tactics free
+    
+    UUs:
+    Keshik (raiding cavalry), Flaming Camel (petard)
+    
+    UTs:
+    • Silk Armor (Light Cavalry, Steppe Lancers and Cavalry Archers receive +1/+1P armor)
+    • Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels)
+    
+    TB:
+    Cavalry Archers +2 LOS",
+    "teutons" : "Infantry civilization
+
+    • Monks healing range 2x
+    • Towers garrison 2x units
+    • Murder Holes, Herbal Medicine free
+    • Farms cost -40%
+    • TC garrison +10
+    • Barracks and Stable units +1 armor in Castle and Imperial Age (+2 total)
+    
+    UU:
+    Teutonic Knight (infantry)
+    
+    UTs:
+    • Ironclad (siege weapons extra melee armor)
+    • Crenellations (+3 range Castles
+    garrisoned infantry fire arrows)
+    
+    TB:
+    Units resist conversion",
+    "turks" : "Gunpowder civilization
+
+    • Gunpowder units +25% HP; researching gunpowder technologies costs -50%; Chemistry free
+    • Gold miners 20% faster
+    • Scout Cavalry-line +1P armor
+    • Light Cavalry and Hussar upgrades free
+    
+    UU:
+    Janissary (hand cannoneer)
+    
+    UTs:
+    • Sipahi (Cavalry Archers +20 HP)
+    • Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)
+    
+    TB:
+    Gunpowder units created 25% faster",
+    "vietnamese" : "Archer civilization
+
+    • Enemy positions are revealed at the start of the game
+    • Economic upgrades cost no wood
+    • Archery Range units +20% HP
+    • Conscription free
+    
+    UUs:
+    Rattan Archer (foot archer)
+    
+    UTs:
+    • Chatras (Battle Elephants +50 HP)
+    • Paper Money (Each team member receives 500 gold)
+    
+    TB:
+    Imperial Skirmisher upgrade available in the Imperial Age",
+    "vikings" : "Infantry and Naval civilization
+
+    • Warships cost -15% Feudal Age, -15% Castle Age, -20% Imperial Age
+    • Infantry +10% HP Feudal, +15% Castle, +20% Imperial Age
+    • Wheelbarrow, Hand Cart free
+    
+    UUs:
+    Berserk (infantry), Longboat (warship)
+    
+    UTs:
+    • Chieftains (infantry deal bonus damage to cavalry)
+    • Berserkergang (Berserks regenerate faster)
+    
+    TB:
+    Docks cost -15%"
+}
