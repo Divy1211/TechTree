@@ -16,3 +16,5 @@ example usages:
 2. !techtree ethiopians - Archer civilization • Archers fire 18% faster • Receive +100 gold, +100 food when advancing to the next age • Pikeman upgrade free UU: Shotel Warrior (infantry) UTs: • Royal Heirs (Shotel Warriors train nearly instantly) • Torsion Engines (increases blast radius of Siege Workshop units) TB: Towers and Outposts +3 LOS
 
 3. !techtree so - The civs that have access to siege onager are: aztecs, bulgarians, celts, cumans, ethiopians, koreans, malians, mongols, saracens, slavs, teutons
+
+4. !techtree xbow - All civs have access to crossbowman except: bulgarians, spanish
