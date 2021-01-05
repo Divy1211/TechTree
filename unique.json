@@ -1,0 +1,348 @@
+{
+    "unit": {
+        "jaguar warrior": [
+            "aztecs"
+        ],
+        "camel archer": [
+            "berbers"
+        ],
+        "genitour": [
+            "berbers"
+        ],
+        "longbowman": [
+            "britons"
+        ],
+        "konnik": [
+            "bulgarians"
+        ],
+        "arambai": [
+            "burmese"
+        ],
+        "cataphract": [
+            "byzantines"
+        ],
+        "woad raider": [
+            "celts"
+        ],
+        "chu ko nu": [
+            "chinese"
+        ],
+        "kipchak": [
+            "cumans"
+        ],
+        "shotel warrior": [
+            "ethiopians"
+        ],
+        "throwing axeman": [
+            "franks"
+        ],
+        "huskarl": [
+            "goths"
+        ],
+        "tarkan": [
+            "huns"
+        ],
+        "kamayuk": [
+            "incas"
+        ],
+        "slinger": [
+            "incas"
+        ],
+        "elephant archer": [
+            "indians"
+        ],
+        "imperial camel rider": [
+            "indians"
+        ],
+        "genoese crossbowman": [
+            "italians"
+        ],
+        "condottiero": [
+            "italians"
+        ],
+        "samurai": [
+            "japanese"
+        ],
+        "ballista elephant": [
+            "khmer"
+        ],
+        "war wagon": [
+            "koreans"
+        ],
+        "turtle ship": [
+            "koreans"
+        ],
+        "leitis": [
+            "lithuanians"
+        ],
+        "magyar huszar": [
+            "magyars"
+        ],
+        "karambit warrior": [
+            "malay"
+        ],
+        "gbeto": [
+            "malians"
+        ],
+        "plumed archer": [
+            "mayans"
+        ],
+        "mangudai": [
+            "mongols"
+        ],
+        "war elephant": [
+            "persians"
+        ],
+        "organ gun": [
+            "portuguese"
+        ],
+        "caravel": [
+            "portuguese"
+        ],
+        "mameluke": [
+            "saracens"
+        ],
+        "boyar": [
+            "slavs"
+        ],
+        "conquistador": [
+            "spanish"
+        ],
+        "missionary": [
+            "spanish"
+        ],
+        "keshik": [
+            "tatars"
+        ],
+        "flaming camel": [
+            "tatars"
+        ],
+        "teutonic knight": [
+            "teutons"
+        ],
+        "janissary": [
+            "turks"
+        ],
+        "rattan archer": [
+            "vietnamese"
+        ],
+        "berserk": [
+            "vikings"
+        ],
+        "longboat": [
+            "vikings"
+        ]
+    },
+    "tech": {
+        "atlatl": [
+            "aztecs"
+        ],
+        "garland wars": [
+            "aztecs"
+        ],
+        "kasbah": [
+            "berbers"
+        ],
+        "maghrebi camels": [
+            "berbers"
+        ],
+        "yeomen": [
+            "britons"
+        ],
+        "warwolf": [
+            "britons"
+        ],
+        "stirrups": [
+            "bulgarians"
+        ],
+        "bagains": [
+            "bulgarians"
+        ],
+        "howdah": [
+            "burmese"
+        ],
+        "manipur cavalry": [
+            "burmese"
+        ],
+        "greek fire": [
+            "byzantines"
+        ],
+        "logistica": [
+            "byzantines"
+        ],
+        "stronghold": [
+            "celts"
+        ],
+        "furor celtica": [
+            "celts"
+        ],
+        "great wall": [
+            "chinese"
+        ],
+        "rocketry": [
+            "chinese"
+        ],
+        "steppe husbandry": [
+            "cumans"
+        ],
+        "cuman mercenaries": [
+            "cumans"
+        ],
+        "royal heirs": [
+            "ethiopians"
+        ],
+        "torsion engines": [
+            "ethiopians"
+        ],
+        "chivalry": [
+            "franks"
+        ],
+        "bearded axe": [
+            "franks"
+        ],
+        "anarchy": [
+            "goths"
+        ],
+        "perfusion": [
+            "goths"
+        ],
+        "marauders": [
+            "huns"
+        ],
+        "atheism": [
+            "huns"
+        ],
+        "andean sling": [
+            "incas"
+        ],
+        "fabric shields": [
+            "incas"
+        ],
+        "sultans": [
+            "indians"
+        ],
+        "shatagni": [
+            "indians"
+        ],
+        "pavise": [
+            "italians"
+        ],
+        "silk road": [
+            "italians"
+        ],
+        "yasama": [
+            "japanese"
+        ],
+        "kataparuto": [
+            "japanese"
+        ],
+        "tusk swords": [
+            "khmer"
+        ],
+        "double crossbow": [
+            "khmer"
+        ],
+        "eupseong": [
+            "koreans"
+        ],
+        "shinkichon": [
+            "koreans"
+        ],
+        "hill forts": [
+            "lithuanians"
+        ],
+        "tower shields": [
+            "lithuanians"
+        ],
+        "corvinian army": [
+            "magyars"
+        ],
+        "recurve bow": [
+            "magyars"
+        ],
+        "thalassocracy": [
+            "malay"
+        ],
+        "forced levy": [
+            "malay"
+        ],
+        "tigui": [
+            "malians"
+        ],
+        "farimba": [
+            "malians"
+        ],
+        "obsidian arrows": [
+            "mayans"
+        ],
+        "el dorado": [
+            "mayans"
+        ],
+        "nomads": [
+            "mongols"
+        ],
+        "drill": [
+            "mongols"
+        ],
+        "kamandaran": [
+            "persians"
+        ],
+        "mahouts": [
+            "persians"
+        ],
+        "carrack": [
+            "portuguese"
+        ],
+        "arquebus": [
+            "portuguese"
+        ],
+        "madrasah": [
+            "saracens"
+        ],
+        "zealotry": [
+            "saracens"
+        ],
+        "orthodoxy": [
+            "slavs"
+        ],
+        "druzhina": [
+            "slavs"
+        ],
+        "inquisition": [
+            "spanish"
+        ],
+        "supremacy": [
+            "spanish"
+        ],
+        "silk armor": [
+            "tatars"
+        ],
+        "timurid siegecraft": [
+            "tatars"
+        ],
+        "ironclad": [
+            "teutons"
+        ],
+        "crenellations": [
+            "teutons"
+        ],
+        "sipahi": [
+            "turks"
+        ],
+        "artillery": [
+            "turks"
+        ],
+        "chatras": [
+            "vietnamese"
+        ],
+        "paper money": [
+            "vietnamese"
+        ],
+        "chieftains": [
+            "vikings"
+        ],
+        "berserkergang": [
+            "vikings"
+        ]
+    }
+}
