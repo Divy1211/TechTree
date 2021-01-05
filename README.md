@@ -13,6 +13,6 @@
 example usages:
 1. !techtree do saracens get halb - no
 
-2. !techtree saracens - Camel and Naval civilization \u2022 Market trade cost only 5% \u2022 Market costs -100 wood \u2022 Transport Ships 2x HP, 2x capacity \u2022 Galleys attack 25% faster \u2022 Archers (except skirmishers) +1 attack vs. buildings per age (starting in the Feudal Age) UU: Mameluke (camel rider) UTs: \u2022 Madrasah (Monks return 33% of their cost when killed) \u2022 Zealotry (Camel units +30 HP) TB: Foot archers +1 attack vs. buildings
+2. !techtree ethiopians - Archer civilization • Archers fire 18% faster • Receive +100 gold, +100 food when advancing to the next age • Pikeman upgrade free UU: Shotel Warrior (infantry) UTs: • Royal Heirs (Shotel Warriors train nearly instantly) • Torsion Engines (increases blast radius of Siege Workshop units) TB: Towers and Outposts +3 LOS
 
 3. !techtree so - The civs that have access to siege onager are: aztecs, bulgarians, celts, cumans, ethiopians, koreans, malians, mongols, saracens, slavs, teutons
