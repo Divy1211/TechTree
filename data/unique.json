@@ -15,6 +15,12 @@
         "konnik": [
             "bulgarians"
         ],
+        "coustillier": [
+            "burgundians"
+        ],
+        "flemish militia": [
+            "burgundians"
+        ],
         "arambai": [
             "burmese"
         ],
@@ -102,6 +108,9 @@
         "mameluke": [
             "saracens"
         ],
+        "serjeant": [
+            "sicilians"
+        ],
         "boyar": [
             "slavs"
         ],
@@ -140,6 +149,14 @@
         ],
         "krepost": [
             "bulgarians"
+        ],
+        "donjon": [
+            "sicilians"
+        ],
+        "xolotl warrior": [
+            "aztecs",
+            "mayans",
+            "incas"
         ]
     },
     "tech": {
@@ -166,6 +183,12 @@
         ],
         "bagains": [
             "bulgarians"
+        ],
+        "burgundian vineyards": [
+            "burgundians"
+        ],
+        "flemish revolution": [
+            "burgundians"
         ],
         "howdah": [
             "burmese"
@@ -281,7 +304,7 @@
         "farimba": [
             "malians"
         ],
-        "obsidian arrows": [
+        "hul\u2019che javelineers": [
             "mayans"
         ],
         "el dorado": [
@@ -310,6 +333,12 @@
         ],
         "zealotry": [
             "saracens"
+        ],
+        "first crusade": [
+            "sicilians"
+        ],
+        "scutage": [
+            "sicilians"
         ],
         "orthodoxy": [
             "slavs"

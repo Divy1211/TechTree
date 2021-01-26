@@ -65,6 +65,24 @@
     TB:
     Blacksmiths work 80% faster    
     ",
+    "burgundians" : "
+    Cavalry civilization
+
+    • Economic upgrades one age earlier
+    • Stable techs cost -50%
+    • Cavalier in Castle Age
+    • Gunpowder units +25% attack
+    
+    UUs:
+    Coustillier (cavalry), Flemish Militia (infantry)
+    
+    UTs:
+    • Burgundian Vineyards (Convert food into gold; Farmers generate gold)
+    • Flemish Revolution (Vils to Flemish Militia; Flemish Militia at TC)
+    
+    TB:
+    Relics generate both Gold & Food
+    ",
     "burmese" : "Monk and Elephant civilization
 
     • Lumber Camp upgrades free
@@ -376,7 +394,7 @@
     Plumed Archer (archer)
     
     UTs:
-    • Obsidian Arrows (Archers, Crossbowmen and Arbalesters +6 attack vs. buildings)
+    • Hul’che Javelineers (Skirmishers throw a second projectile when researched.)
     • El Dorado (Eagle Warriors have +40 HP)
     
     TB:
@@ -444,6 +462,24 @@
     
     TB:
     Foot archers +1 attack vs. buildings",
+    "sicilians" : "
+    Infantry civilization
+
+    • Castles and TCs built 100% faster
+    • Infantry take -50% bonus damage
+    • Farm upgrades give 2x food
+    • Can build Donjon
+    
+    UU:
+    Serjeant (infantry)
+    
+    UTs:
+    • First Crusade (Each TC (max 5) spawns a batch of 10 Serjeants)
+    • Scutage (Allies receive 15 gold for each military unit they own)
+    
+    TB:
+    Transport ships +5 carry capacity and +10 armor against anti-ship attacks
+    ",
     "slavs" : "Infantry and Siege civilization
 
     • Farmers work 10% faster

@@ -127,7 +127,7 @@
     "mangonel" : ["mangonel", "mangonels", "mangos"],
     "market" : ["market", "markets"],
     "masonry" : ["masonry"],
-    "militia" : ["militia"],
+    "militia" : ["militia", "mil"],
     "mill" : ["mill", "mills"],
     "mining camp" : ["mining camp", "mining camps", "miningcamp", "miningcamps"],
     "monastery" : ["monastery", "monasteries", "monatry", "monstry", "monstearies", "monatries", "monstries", "monstearies"],
@@ -240,5 +240,10 @@
     "war galley research" : ["war galley research", "war gallies research"],
     "watch tower" : ["watch tower", "watch towers"],
     "wheelbarrow" : ["wheelbarrow", "wheel", "wheel barrow"],
-    "wonder" : ["wonder", "wonders"]    
+    "wonder" : ["wonder", "wonders"],
+    "serjeant" : ["serjeant", "serjeants", "elite serjeant", "elite serjeants"],
+    "donjon" : ["donjon", "donjons"],
+    "coustiller" : ["coustiller", "coustillers", "elite coustiller", "elite coustillers"],
+    "flemish militia" : ["flemish militia", "flemish mil"],
+    "xolotl warrior" : ["xolotl warrior", "xolotl warriors"]
 }
