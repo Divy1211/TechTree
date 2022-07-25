@@ -1,5 +1,6 @@
 const firebase = require(`./firebase.js`);
 const database = firebase.firebase.database();
+
 async function techTreeInfo(ask) {
     ask = ask.toLowerCase();
     data = await database.ref(`civ bonus list`).once(`value`);
@@ -8,6 +9,7 @@ async function techTreeInfo(ask) {
     tech_tree = data.val();
     data = await database.ref(`inverted aliases`).once(`value`);
     inverted_aliases = data.val();
+    
     if(ask.startsWith(`do`)) {
         ask = ask.split(` `);
         passed_name = ask.slice(3).join(` `);
@@ -21,13 +23,13 @@ async function techTreeInfo(ask) {
         return `no`;
     } else {
         unit = inverted_aliases[ask]
-        if(tech_tree.name.includes(ask) || ask == "alian713")
+        if(tech_tree.name.includes(ask) || ["alian713", "alian"].includes(ask))
             return civ_bonus_list[ask];
         else {
             civ_list = tech_tree[unit] || tech_tree.unique.unit[unit] || tech_tree.unique.tech[unit];
             if(civ_list) {
-                if (civ_list.length > 17) {
-                    if(civ_list.length == 35)
+                if (civ_list.length > tech_tree.name.length/2) {
+                    if(civ_list.length == tech_tree.name.length)
                         return `All civs have access to ${unit}`;
                     civ_list = tech_tree.name.filter(civ => !civ_list.includes(civ));
                     return `All civs have access to ${unit} except: `+civ_list.join(`, `);
